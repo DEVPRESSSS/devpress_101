@@ -207,9 +207,6 @@ D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Devpress101.inex29v4xb.wasm
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Devpress101.ef2z95om2m.pdb
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\dotnet.5s5l53w02j.js
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\blazor.webassembly.66stpp682q.js.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.roqc1km2rj.wasm.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.uddsvpv1sv.wasm.gz
@@ -418,9 +415,6 @@ D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Devpress101.inex29v4xb.wasm.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Devpress101.ef2z95om2m.pdb.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\dotnet.5s5l53w02j.js.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\Devpress101.staticwebassets.runtime.json
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\Devpress101.staticwebassets.endpoints.json
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\Devpress101.dll
@@ -1111,10 +1105,6 @@ D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\v55x5l4b
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\utzar198s2-{0}-tjcz0u77k5-tjcz0u77k5.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\v6qguua0fx-{0}-tptq2av103-tptq2av103.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\5euzo9x7gl-{0}-lfu7j35m59-lfu7j35m59.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\686894jx9z-{0}-inex29v4xb-inex29v4xb.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\z0drmhvz0h-{0}-ef2z95om2m-ef2z95om2m.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\4la552mhsh-{0}-5s5l53w02j-5s5l53w02j.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\hcbwg20p0w-{0}-0emxolwxbe-0emxolwxbe.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\staticwebassets.build.json
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\staticwebassets.build.json.cache
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\staticwebassets.development.json
@@ -1126,3 +1116,14 @@ D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\Devpress101.dll
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\refint\Devpress101.dll
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\Devpress101.pdb
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\ref\Devpress101.dll
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Devpress101.be85ingq2k.wasm
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Devpress101.al8kpb6vks.pdb
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\dotnet.mb13ym5f1u.js
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Devpress101.be85ingq2k.wasm.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\Devpress101.al8kpb6vks.pdb.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\wwwroot\_framework\dotnet.mb13ym5f1u.js.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Debug\net10.0\vercel.json
+D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\686894jx9z-{0}-be85ingq2k-be85ingq2k.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\z0drmhvz0h-{0}-al8kpb6vks-al8kpb6vks.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\4la552mhsh-{0}-mb13ym5f1u-mb13ym5f1u.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Debug\net10.0\compressed\hcbwg20p0w-{0}-khduui506l-khduui506l.gz
