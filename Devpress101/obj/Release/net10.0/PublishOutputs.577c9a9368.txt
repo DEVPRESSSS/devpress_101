@@ -1,0 +1,5 @@
+D:\RESUME_PROJECTS\Devpress101\publish\wwwroot\index.html
+D:\RESUME_PROJECTS\Devpress101\publish\vercel.json
+D:\RESUME_PROJECTS\Devpress101\publish\Devpress101.runtimeconfig.json
+D:\RESUME_PROJECTS\Devpress101\publish\dotnet.js
+D:\RESUME_PROJECTS\Devpress101\publish\web.config
