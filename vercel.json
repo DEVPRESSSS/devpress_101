@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "Devpress101/publish/wwwroot",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
