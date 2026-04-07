@@ -206,6 +206,9 @@ D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framewor
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Devpress101.h0vza8bu64.wasm
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Devpress101.52mqp1a6hp.pdb
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\dotnet.le8c12d714.js
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\blazor.webassembly.66stpp682q.js.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.roqc1km2rj.wasm.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Microsoft.AspNetCore.Components.uddsvpv1sv.wasm.gz
@@ -413,7 +416,9 @@ D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framewor
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\vercel.json
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Devpress101.h0vza8bu64.wasm.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Devpress101.52mqp1a6hp.pdb.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\dotnet.le8c12d714.js.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\Devpress101.staticwebassets.runtime.json
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\Devpress101.staticwebassets.endpoints.json
 D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\Devpress101.dll
@@ -1100,6 +1105,10 @@ D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\v55x5l
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\utzar198s2-{0}-tjcz0u77k5-tjcz0u77k5.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\v6qguua0fx-{0}-tptq2av103-tptq2av103.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\5euzo9x7gl-{0}-lfu7j35m59-lfu7j35m59.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\686894jx9z-{0}-h0vza8bu64-h0vza8bu64.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\z0drmhvz0h-{0}-52mqp1a6hp-52mqp1a6hp.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\4la552mhsh-{0}-le8c12d714-le8c12d714.gz
+D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\hcbwg20p0w-{0}-h5x3dyzqw8-h5x3dyzqw8.gz
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\staticwebassets.build.json
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\staticwebassets.build.json.cache
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\staticwebassets.development.json
@@ -1110,13 +1119,3 @@ D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\Devpress101.dll
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\refint\Devpress101.dll
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\Devpress101.pdb
 D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\ref\Devpress101.dll
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Devpress101.g0kngkasxk.wasm
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Devpress101.nl4e274pjk.pdb
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\dotnet.bw65fg097o.js
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Devpress101.g0kngkasxk.wasm.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\Devpress101.nl4e274pjk.pdb.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\bin\Release\net10.0\wwwroot\_framework\dotnet.bw65fg097o.js.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\686894jx9z-{0}-g0kngkasxk-g0kngkasxk.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\z0drmhvz0h-{0}-nl4e274pjk-nl4e274pjk.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\4la552mhsh-{0}-bw65fg097o-bw65fg097o.gz
-D:\RESUME_PROJECTS\Devpress101\Devpress101\obj\Release\net10.0\compressed\hcbwg20p0w-{0}-ltqj9mlvls-ltqj9mlvls.gz

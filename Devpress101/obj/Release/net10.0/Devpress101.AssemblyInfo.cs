@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Devpress101")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+143d0225afad1aa3006e206bb89d24d5786ee60b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571925113ce7fb60a3c515a3d5338ea1ce9ac076")]
 [assembly: System.Reflection.AssemblyProductAttribute("Devpress101")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Devpress101")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
