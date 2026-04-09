@@ -1,0 +1,71 @@
+﻿@page "/techstack"
+
+<section class="min-h-screen bg-white px-6 py-8">
+
+    <div class="max-w-5xl mx-auto mb-12">
+        <h1 class="text-4xl font-medium text-violet-700 tracking-tight">Expertise</h1>
+        <div class="mt-3 h-0.5 w-10 bg-violet-300 rounded-full"></div>
+    </div>
+
+    <div class="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
+        @foreach (var category in TechCategories)
+        {
+            <div class="border-t-4 shadow-sm border-t-gray-200 rounded-2xl p-5 bg-white hover:shadow-lg transition-all duration-200">
+                <div class="flex items-center gap-2.5 mb-4">
+                    <div class="w-7 h-7 rounded-lg bg-violet-50 flex items-center justify-center text-sm shrink-0">
+                        @category.Icon
+                    </div>
+                    <span class="text-[11px] font-medium tracking-[0.2em] text-violet-600 uppercase">
+                        @category.Category
+                    </span>
+                </div>
+
+                <div class="flex flex-wrap gap-1.5">
+                    @foreach (var tech in category.Techs)
+                    {
+                        <span class="px-2.5 py-1 text-[11px] rounded-full bg-violet-50 text-violet-800 border border-violet-100 font-medium tracking-wide hover:bg-violet-100 transition-colors duration-150 cursor-default">
+                            @tech
+                        </span>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+</section>
+
+@code {
+    private class TechCategory
+    {
+        public string Icon { get; set; } = "";
+        public string Category { get; set; } = "";
+        public List<string> Techs { get; set; } = new();
+    }
+
+    private List<TechCategory> TechCategories = new()
+    {
+        new TechCategory
+        {
+            Icon = "🖥️",
+            Category = "Frontend",
+            Techs = new() { "Blazor", "HTML5", "CSS3", "Tailwind", "Bootstrap", "JavaScript", "XML" }
+        },
+        new TechCategory
+        {
+            Icon = "⚙️",
+            Category = "Backend",
+            Techs = new() { "C#", "Go", ".NET 6 - .NET 10", "ASP.NET Core", "REST API", "SignalR", "Entity Framework" }
+        },
+        new TechCategory
+        {
+            Icon = "🗄️",
+            Category = "Database",
+            Techs = new() { "SQL Server", "PostgreSQL", "MySQL", "MSACCESS", "Firebase" }
+        },
+        new TechCategory
+        {
+            Icon = "🛠️",
+            Category = "Tools & DevOps",
+            Techs = new() { "Git", "GitHub", "Figma", "Visual Studio Code", "Visual Studio" }
+        }
+    };
+}
