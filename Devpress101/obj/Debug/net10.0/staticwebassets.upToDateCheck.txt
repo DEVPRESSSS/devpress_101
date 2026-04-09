@@ -1,0 +1,11 @@
+wwwroot\assets\CoverPhoto.jpg
+wwwroot\assets\MontemorJerald.pdf
+wwwroot\assets\profile.jpg
+wwwroot\css\app.css
+wwwroot\css\output.css
+wwwroot\favicon.png
+wwwroot\icon-192.png
+wwwroot\sample-data\weather.json
+D:\RESUME_PROJECTS\Devpress101\Devpress101\wwwroot\css\app.css
+D:\RESUME_PROJECTS\Devpress101\Devpress101\wwwroot\sample-data\weather.json
+D:\RESUME_PROJECTS\Devpress101\Devpress101\wwwroot\css\output.css
