@@ -1,5 +1,36 @@
 ﻿@page "/"
 
-<PageTitle>Home</PageTitle>
+<section id="hero-section" class="min-h-screen flex items-center justify-center px-6">
+    <div class="max-w-5xl w-full mx-auto flex flex-col md:flex-row items-center gap-12">
 
-<h1 class="text-center bg-purple-600 rounded-full">Hello, world!</h1>
+        <!-- Left: Text -->
+        <div class="flex-1 flex flex-col gap-4">
+            <h1 class="text-5xl font-bold text-gray-900 leading-tight">
+                Hey there, I'm <span class="text-violet-600">Devpress</span>
+            </h1>
+            <p class="text-gray-500 text-lg leading-relaxed">
+                A passionate .NET developer building clean,desktop application with windows form, WPF, modern web applications with C# . ASP.NET MVC, Razor View and Blazor.
+            </p>
+
+            <!-- CTA Buttons -->
+            <div class="flex gap-4 mt-2">
+                <a href="/projects" class="bg-violet-600 hover:bg-violet-700 text-white text-sm font-medium px-6 py-3 rounded-full transition-colors duration-200">
+                    View Projects
+                </a>
+                <a href="/contactme" class="border border-gray-200 hover:border-violet-600 hover:text-violet-600 text-gray-500 text-sm font-medium px-6 py-3 rounded-full transition-colors duration-200">
+                    Contact Me
+                </a>
+            </div>
+        </div>
+
+        <!-- Right: Image -->
+        <div class="flex-1 flex justify-center">
+            <div class="relative">
+                <div class="absolute inset-0 rounded-full bg-violet-100 blur-1xl opacity-60"></div>
+                <img src="/assets/profile.jpg" alt="Profile"
+                     class="relative w-72 h-72 object-cover rounded-full border-4 border-white shadow-xl" />
+            </div>
+        </div>
+
+    </div>
+</section>

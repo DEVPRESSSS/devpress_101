@@ -1,0 +1,40 @@
+﻿@page "/aboutme"
+
+<section class="min-h-screen bg-white px-8 py-12 max-w-5xl mx-auto">
+
+    <!-- Header -->
+    <div class="mb-10">
+        <h1 class="text-4xl font-medium text-gray-900 tracking-tight">Montemor, Jerald R.</h1>
+        <p class="text-sm text-violet-600 font-medium mt-1">.NET developer</p>
+        <div class="mt-3 h-0.5 w-10 bg-violet-200 rounded-full"></div>
+    </div>
+
+    <!-- Body: Bio + Photo side by side -->
+    <div class="flex flex-col md:flex-row gap-12 items-start">
+
+        <!-- Left: Bio + Tags -->
+        <div class="flex-1">
+            <p class="text-[15px] leading-relaxed text-gray-500 text-justify">
+                A C# enthusiast driven by curiosity and a passion for building meaningful software.
+                I specialize in crafting web applications using ASP.NET Core with MVC and Razor Pages, designing
+                responsive interfaces paired with solid backend logic. Beyond the web, I enjoy developing Windows
+                desktop applications using windows form or windows presentation foundation(WPF) and leveraging Entity Framework Core for clean, efficient data management.
+                My goal is simple — write software that solves real problems and delivers great user experiences.
+            </p>
+
+           
+        </div>
+
+        <!-- Cover photo -->
+        <div class="w-full md:w-64 shrink-0">
+            <img src="/assets/CoverPhoto.jpg"
+                 class="w-full rounded-4xl object-cover aspect-[3/4]"
+                 alt="Cover photo" />
+        </div>
+
+    </div>
+</section>
+
+@code {
+    
+}

@@ -44,6 +44,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/RESUME_PROJECTS/Devpress101/Devpress101/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/RESUME_PROJECTS/Devpress101/Devpress101/Pages/TechStack.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjaFN0YWNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/RESUME_PROJECTS/Devpress101/Devpress101/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
