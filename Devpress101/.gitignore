@@ -1,5 +1,5 @@
 ﻿.vs
 node_modules/
-Devpress101/obj/
-Devpress101/bin/
+**/bin/
+**/obj/
 Devpress101/wwwroot/css/output.css
