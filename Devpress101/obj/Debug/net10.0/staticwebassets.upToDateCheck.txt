@@ -7,5 +7,5 @@ wwwroot\favicon.png
 wwwroot\icon-192.png
 wwwroot\sample-data\weather.json
 D:\RESUME_PROJECTS\Devpress101\Devpress101\wwwroot\css\app.css
-D:\RESUME_PROJECTS\Devpress101\Devpress101\wwwroot\css\output.css
 D:\RESUME_PROJECTS\Devpress101\Devpress101\wwwroot\sample-data\weather.json
+D:\RESUME_PROJECTS\Devpress101\Devpress101\wwwroot\css\output.css
